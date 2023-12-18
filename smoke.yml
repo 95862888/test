@@ -1,6 +1,6 @@
 project_name: Smoke100-4
 train_set: train
-val_set: val
+val_set: test
 num_gpus: 1
 
 # mean and std in RGB order, actually this part should remain unchanged as long as your dataset is similar to coco.
